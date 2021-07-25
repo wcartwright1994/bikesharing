@@ -1,4 +1,4 @@
-# NYC_Citibike_Challenge
+# bikesharing
 
 **Overview of the Statistical Analysis**
 
